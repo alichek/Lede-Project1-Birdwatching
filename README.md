@@ -5,3 +5,7 @@ Analyzing the stats for bird sighting submission
 
 I would like to see if data collection is affected by bad weather, and in particular by recent air quality problems caused by Canadian wildfires.
 
+### Other data used:
+
+Weatherapi.org
+https://aqicn.org/historical#!city:usa/newyork
